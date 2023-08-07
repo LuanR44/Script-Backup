@@ -1,5 +1,5 @@
 # Defina os caminhos de origem e destino
-$origens = "C:\", "C:\",
+$origens = "C:\", "C:\"
 $pastaDestino = "C:\"
 $logPath = "C:\Log_Backup\backup.log"
 $reportPath = "C:\Log_Backup\backup_report.txt"
