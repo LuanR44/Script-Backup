@@ -17,7 +17,7 @@
 </div>
 
 ## 📝 Sobre:
-Este é um script que faz backup de qualquer pasta ou arquivos, e gera alguns arquivos de logs para acompanhar todo o processo.
+Este é um script que faz backup de qualquer pasta ou arquivos, gera alguns arquivos de logs para acompanhar todo o processo e também apaga os backups antigos, de acordo com o tempo que desejar!
 
 ## 💾 Tecnologias e Ferramentas Utilizadas:
 <table>
